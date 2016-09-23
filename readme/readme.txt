@@ -9,6 +9,6 @@ with "join". Example of result:
 You can a) replace selection with JS code, b) copy JS code to clipboard.
 Commands are in Plugins menu.
 
-Converter code (few lines) are from https://github.com/metatribal/sublime-jsmultiline
+Converter code (few lines) from https://github.com/metatribal/sublime-jsmultiline
 License for this plugin: Apache 2.0 or MIT
 Author: Alexey T. (CudaText)

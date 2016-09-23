@@ -3,7 +3,7 @@ title=JS Multiline Array
 desc=Converts several selected lines of text - to JavaScript string array
 type=cudatext-plugin
 subdir=cuda_js_multiline_array
-homepage=
+homepage=https://github.com/CudaText-addons/cuda_js_multiline_array
 
 [item1]
 section=commands
